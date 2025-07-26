@@ -1,0 +1,6 @@
+age,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,prediction,probability_of_yes
+30,admin.,married,primary,yes,0,yes,yes,cellular,15,jan,200,1,-1,0,success,0,0.22
+30,admin.,married,primary,yes,0,yes,yes,cellular,15,jan,200,1,-1,0,failure,0,0.03
+30,admin.,married,primary,yes,0,yes,yes,cellular,15,jan,200,1,-1,0,success,0,0.13
+30,admin.,married,primary,yes,0,yes,yes,cellular,15,jan,200,1,-1,0,success,0,0.13
+30,admin.,married,primary,yes,0,yes,yes,telephone,4,jan,884,1,-1,0,success,1,0.51
